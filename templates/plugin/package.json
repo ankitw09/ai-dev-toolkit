@@ -1,0 +1,13 @@
+{
+  "name": "plugin-name",
+  "version": "0.1.0",
+  "description": "What this plugin does",
+  "claude": {
+    "agents": {
+      "agent-name": {
+        "description": "What this agent does",
+        "entry": "agents/agent-name.md"
+      }
+    }
+  }
+}
